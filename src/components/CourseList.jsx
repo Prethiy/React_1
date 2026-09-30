@@ -1,7 +1,7 @@
 import Course from "./Course";
 import Dude from "./Dude.avif";
 import HiNanna from "./hi-nanna_.webp";
-import Irugapatru from "./iruggapattru.jpg";
+import Irugapatru from "./Iruggapattru.jpg";
 import Leo from "./Leo.avif";
 import NOV from "./nithamoruvaanam.jpg";
 import WithLove from "./With love.jpg";
